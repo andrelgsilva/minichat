@@ -4,9 +4,9 @@ Sistema de chat multiusuário em Python utilizando sockets TCP.
 
 ## Requisitos
 
-- Python 3.7 ou superior
-- Biblioteca `socket` (nativa do Python)
-- Biblioteca `threading` (nativa do Python)
+- Python 3.7 ou superior.
+- Biblioteca `socket` (nativa do Python).
+- Biblioteca `threading` (nativa do Python).
 
 ## Como Executar
 
